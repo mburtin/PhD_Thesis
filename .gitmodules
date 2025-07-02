@@ -1,3 +1,3 @@
 [submodule "PBPK-Linezolid"]
 	path = PBPK-Linezolid
-	url = https://github.com/mburtin/CSF_PBPK_Linezolid.git
+	url = https://github.com/INSERM-U1070-PHAR2/capoiera-pbpk-linezolid
